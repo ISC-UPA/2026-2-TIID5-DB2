@@ -1,0 +1,224 @@
+ {
+   "IdCiudad": 1,
+   "Abreviatura": "Ags",
+   "Nombre": "AGUASCALIENTES",
+   "Capital": "AGUASCALIENTES",
+   "Municipios": 11
+ }
+ {
+   "IdCiudad": 2,
+   "Abreviatura": "BC",
+   "Nombre": "BAJA CALIFORNIA",
+   "Capital": "MEXICALI",
+   "Municipios": 5
+ }
+ {
+   "IdCiudad": 3,
+   "Abreviatura": "BCS",
+   "Nombre": "BAJA CALIFORNIA SUR",
+   "Capital": "LA PAZ",
+   "Municipios": 5
+ }
+ {
+   "IdCiudad": 4,
+   "Abreviatura": "Camp",
+   "Nombre": "CAMPECHE",
+   "Capital": "CAMPECHE",
+   "Municipios": 11
+ }
+ {
+   "IdCiudad": 5,
+   "Abreviatura": "Coah",
+   "Nombre": "COAHUILA",
+   "Capital": "SALTILLO",
+   "Municipios": 38
+ }
+ {
+   "IdCiudad": 6,
+   "Abreviatura": "Col",
+   "Nombre": "COLIMA",
+   "Capital": "COLIMA",
+   "Municipios": 10
+ }
+ {
+   "IdCiudad": 7,
+   "Abreviatura": "Chis",
+   "Nombre": "CHIAPAS",
+   "Capital": "TUXTLA GUTIERREZ",
+   "Municipios": 118
+ }
+ {
+   "IdCiudad": 8,
+   "Abreviatura": "Chih",
+   "Nombre": "CHIHUAHUA",
+   "Capital": "CHIHUAHUA",
+   "Municipios": 67
+ }
+ {
+   "IdCiudad": 9,
+   "Abreviatura": "DF",
+   "Nombre": "DISTRITO FEDERAL",
+   "Capital": "",
+   "Municipios": 16
+ }
+ {
+   "IdCiudad": 10,
+   "Abreviatura": "Dgo",
+   "Nombre": "DURANGO",
+   "Capital": "DURANGO",
+   "Municipios": 39
+ }
+ {
+   "IdCiudad": 11,
+   "Abreviatura": "Gto",
+   "Nombre": "GUANAJUATO",
+   "Capital": "GUANAJUATO",
+   "Municipios": 46
+ }
+ {
+   "IdCiudad": 12,
+   "Abreviatura": "Gro",
+   "Nombre": "GUERRERO",
+   "Capital": "CHILPANCINGO.",
+   "Municipios": 81
+ }
+ {
+   "IdCiudad": 13,
+   "Abreviatura": "Hgo",
+   "Nombre": "HIDALGO",
+   "Capital": "PACHUCA",
+   "Municipios": 84
+ }
+ {
+   "IdCiudad": 14,
+   "Abreviatura": "Jal",
+   "Nombre": "JALISCO",
+   "Capital": "GUADALAJARA",
+   "Municipios": 125
+ }
+ {
+   "IdCiudad": 15,
+   "Abreviatura": "Mex",
+   "Nombre": "MEXICO",
+   "Capital": "TOLUCA",
+   "Municipios": 125
+ }
+ {
+   "IdCiudad": 16,
+   "Abreviatura": "Mich",
+   "Nombre": "MICHOACAN",
+   "Capital": "MORELIA",
+   "Municipios": 113
+ }
+ {
+   "IdCiudad": 17,
+   "Abreviatura": "Mor",
+   "Nombre": "MORELOS",
+   "Capital": "CUERNAVACA",
+   "Municipios": 33
+ }
+ {
+   "IdCiudad": 18,
+   "Abreviatura": "Nay",
+   "Nombre": "NAYARIT",
+   "Capital": "TEPIC",
+   "Municipios": 20
+ }
+ {
+   "IdCiudad": 19,
+   "Abreviatura": "NL",
+   "Nombre": "NUEVO LEON",
+   "Capital": "MONTERREY",
+   "Municipios": 51
+ }
+ {
+   "IdCiudad": 20,
+   "Abreviatura": "Oax",
+   "Nombre": "OAXACA",
+   "Capital": "OAXACA",
+   "Municipios": 570
+ }
+ {
+   "IdCiudad": 21,
+   "Abreviatura": "Pue",
+   "Nombre": "PUEBLA",
+   "Capital": "PUEBLA",
+   "Municipios": 217
+ }
+ {
+   "IdCiudad": 22,
+   "Abreviatura": "Qro",
+   "Nombre": "QUERETARO",
+   "Capital": "QUERETARO",
+   "Municipios": 18
+ }
+ {
+   "IdCiudad": 23,
+   "Abreviatura": "QRoo",
+   "Nombre": "QUINTANA ROO",
+   "Capital": "CHETUMAL.",
+   "Municipios": 8
+ }
+ {
+   "IdCiudad": 24,
+   "Abreviatura": "SLP",
+   "Nombre": "SAN LUIS POTOSI",
+   "Capital": "SAN LUIS POTOSI",
+   "Municipios": 58
+ }
+ {
+   "IdCiudad": 25,
+   "Abreviatura": "Sin",
+   "Nombre": "SINALOA",
+   "Capital": "CULIACAN",
+   "Municipios": 18
+ }
+ {
+   "IdCiudad": 26,
+   "Abreviatura": "Son",
+   "Nombre": "SONORA",
+   "Capital": "HERMOSILLO",
+   "Municipios": 72
+ }
+ {
+   "IdCiudad": 27,
+   "Abreviatura": "Tab",
+   "Nombre": "TABASCO",
+   "Capital": "VILLAHERMOSA.",
+   "Municipios": 17
+ }
+ {
+   "IdCiudad": 28,
+   "Abreviatura": "Tamps",
+   "Nombre": "TAMAULIPAS",
+   "Capital": "CIUDAD VICTORIA.",
+   "Municipios": 43
+ }
+ {
+   "IdCiudad": 29,
+   "Abreviatura": "Tlax",
+   "Nombre": "TLAXCALA",
+   "Capital": "TLAXCALA",
+   "Municipios": 60
+ }
+ {
+   "IdCiudad": 30,
+   "Abreviatura": "Ver",
+   "Nombre": "VERACRUZ",
+   "Capital": "XALAPA",
+   "Municipios": 212
+ }
+ {
+   "IdCiudad": 31,
+   "Abreviatura": "Yuc",
+   "Nombre": "YUCATAN",
+   "Capital": "MERIDA",
+   "Municipios": 106
+ }
+ {
+   "IdCiudad": 32,
+   "Abreviatura": "Zac",
+   "Nombre": "ZACATECAS",
+   "Capital": "ZACATECAS",
+   "Municipios": 58
+ }
